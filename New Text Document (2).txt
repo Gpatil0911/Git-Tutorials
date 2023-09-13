@@ -1,1 +1,1 @@
-this is new repositry file in git tutorial
+this is new repositry file in git tutorial version2
