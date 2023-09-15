@@ -1,2 +1,2 @@
 this is new repositry file in git tutorial version2
-it is an github software in windows operating system
+it is an github software 
